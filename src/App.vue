@@ -3,6 +3,7 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      <!-- 黑马头条基本架构 -->
     </nav>
     <router-view/>
   </div>
